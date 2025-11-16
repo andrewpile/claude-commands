@@ -1,1 +1,1 @@
-# claude-commands
+Some helpful commands for Claude Code
